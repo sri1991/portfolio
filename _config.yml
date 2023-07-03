@@ -1,11 +1,9 @@
-title: John Doe # your name (or website title) here
+title: Sri # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Experienced Data Scientist with a demonstrated history of working in the banking industry. Strong engineering professional with a Post Graduate Program Machine learning focused in Machine Learning from IIT Stuart School of Business. Mentoring upcoming machine learning Engineers.
+  <br><br>  
+  <a href="https://www.linkedin.com/in/bharani-srinivas-n/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
